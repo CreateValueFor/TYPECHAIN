@@ -1,0 +1,13 @@
+{
+  "name": "TYPECHAIN",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CreateValueFor/TYPECHAIN",
+  "author": "CreateValueFor <2019143077@yonsei.ac.kr>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+
+  }
+}
